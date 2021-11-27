@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sammadox
 - 👀 I’m interested in Space, Physics and IT.
-- 🌱 I’m currently learning Rust Language,
+- 🌱 I’m currently learning Rust Language.
 - 💞️ I’m looking to collaborate on Projects related to climate change, Social engineering and Ethical hacking.
 - 📫 How to reach me yasser.sammad@hotmail.com
 
